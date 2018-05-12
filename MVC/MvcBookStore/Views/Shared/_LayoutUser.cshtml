@@ -1,0 +1,82 @@
+﻿@using MvcBookStore.Models;
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="~/Content/templatemo_style.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="templatemo_container">
+        <div id="templatemo_menu">
+            <ul>
+                <li><a href="@Url.Action("index", "bookstore")" class="current">Trang chủ</a></li>
+                <li><a href="#" class="current">Liên hệ</a></li>
+                @if (Session["Taikhoan"] == null)
+                {
+                    <li style="float: right"><a href="@Url.Action("dangky", "nguoidung")" class="current">Đăng ký</a></li>
+                    <li style="float: right"><a href="@Url.Action("dangnhap", "nguoidung")" class="current">Đăng nhập</a></li>
+                    <li style="float: right">@Html.Action("giohangpartial", "giohang")</li>
+                }
+                else
+                {
+                    dbQLBansachDataContext data = new dbQLBansachDataContext();
+                    KHACHHANG kh = (KHACHHANG)(Session["Taikhoan"]);
+                    <li style="float: right"><a href="@Url.Action("dangxuat", "nguoidung")" class="current">Đăng xuất</a></li>
+                    <li style="float: right"><font style="font-size: 12px; font-weight: bold; text-align: center; text-decoration: none; color: #fcf88e">Chào @kh.HoTenKH!</font></li>
+                    <li style="float: right">@Html.Action("giohangpartial", "giohang")</li>
+                }
+            </ul>
+        </div> <!-- end of menu -->
+
+        <div id="templatemo_header">
+            <div id="templatemo_special_offers">
+                <p>
+                    <span>25%</span> discounts for
+                    purchase over $80
+                </p>
+                <a href="subpage.html" style="margin-left: 50px;">Read more...</a>
+            </div>
+
+
+            <div id="templatemo_new_books">
+                <ul>
+                    <li>Suspen disse</li>
+                    <li>Maece nas metus</li>
+                    <li>In sed risus ac feli</li>
+                </ul>
+                <a href="subpage.html" style="margin-left: 50px;">Read more...</a>
+            </div>
+        </div> <!-- end of header -->
+
+        <div id="templatemo_content">
+
+            <div id="templatemo_content_left">
+                @Html.Action("Chude", "BookStore")
+                @Html.Action("Nhaxuatban", "BookStore")
+
+            </div> <!-- end of content left -->
+
+            <div id="templatemo_content_right">
+
+                @RenderBody()
+
+
+                <a href="subpage.html"><img src="~/images/templatemo_ads.jpg" alt="ads" /></a>
+            </div> <!-- end of content right -->
+
+            <div class="cleaner_with_height">&nbsp;</div>
+        </div> <!-- end of content -->
+
+        <div id="templatemo_footer">
+
+            <a href="subpage.html">Home</a> | <a href="subpage.html">Search</a> | <a href="subpage.html">Books</a> | <a href="#">New Releases</a> | <a href="#">FAQs</a> | <a href="#">Contact Us</a><br />
+            Copyright © 2018 <a href="#"><strong>Huflit</strong></a> | <a href="http://www.iwebsitetemplate.com" target="_parent">Website Templates</a> by <a href="http://www.templatemo.com" target="_parent" title="free css templates">Free CSS Templates</a>
+        </div>
+        <!-- end of footer -->
+        <!--  Free CSS Template www.templatemo.com -->
+    </div> <!-- end of container -->
+</body>
+</html>
