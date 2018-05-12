@@ -1,0 +1,278 @@
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\ApplicationInsights.config
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\csc.exe
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\csc.exe.config
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\csc.rsp
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\csi.exe
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\csi.rsp
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\System.AppContext.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\vbc.exe
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\vbc.exe.config
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\vbc.rsp
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll.config
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.AI.Web.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\WebGrease.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.xml
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.xml
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.xml
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.AI.Web.xml
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csprojResolveAssemblyReference.cache
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+C:\Users\Duyen Duong\Desktop\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\ApplicationInsights.config
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\csc.exe
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\csc.exe.config
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\csc.rsp
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\csi.exe
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\csi.rsp
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\System.AppContext.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\System.Collections.Immutable.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.FileSystem.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\vbc.exe
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\vbc.exe.config
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\vbc.rsp
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\VBCSCompiler.exe
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\roslyn\VBCSCompiler.exe.config
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll.config
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Microsoft.AI.DependencyCollector.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Microsoft.AI.Web.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Microsoft.AI.WindowsServer.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Microsoft.ApplicationInsights.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\WebGrease.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.xml
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.xml
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.pdb
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.xml
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Microsoft.ApplicationInsights.xml
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Microsoft.AI.DependencyCollector.xml
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Microsoft.AI.WindowsServer.xml
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\bin\Microsoft.AI.Web.xml
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csprojResolveAssemblyReference.cache
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+D:\VINH-SAVEHERE\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\ApplicationInsights.config
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\csc.exe
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\csc.exe.config
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\csc.rsp
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\csi.exe
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\csi.rsp
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\System.AppContext.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\vbc.exe
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\vbc.exe.config
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\vbc.rsp
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll.config
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Microsoft.AI.Web.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\WebGrease.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.xml
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.xml
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.xml
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\Microsoft.AI.Web.xml
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csprojResolveAssemblyReference.cache
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\PagedList.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\PagedList.Mvc.dll
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\PagedList.xml
+C:\Users\Duyen Duong\Desktop\CMPNNC\MvcBookStore\MvcBookStore\bin\PagedList.Mvc.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\ApplicationInsights.config
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\csc.exe
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\csc.exe.config
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\csc.rsp
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\csi.exe
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\csi.rsp
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\System.AppContext.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\vbc.exe
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\vbc.exe.config
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\vbc.rsp
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\MvcBookStore.dll.config
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\MvcBookStore.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\MvcBookStore.pdb
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Antlr3.Runtime.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Microsoft.AI.Web.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Newtonsoft.Json.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\PagedList.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\PagedList.Mvc.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\System.Web.Helpers.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\System.Web.Mvc.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\System.Web.Optimization.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\System.Web.Razor.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\System.Web.WebPages.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\WebGrease.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\PagedList.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\PagedList.Mvc.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\System.Web.Helpers.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\System.Web.Mvc.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\System.Web.Optimization.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\System.Web.Razor.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\System.Web.WebPages.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Newtonsoft.Json.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\bin\Microsoft.AI.Web.xml
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\obj\Debug\MvcBookStore.csprojResolveAssemblyReference.cache
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\obj\Debug\MvcBookStore.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\obj\Debug\MvcBookStore.csproj.CopyComplete
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\obj\Debug\MvcBookStore.dll
+C:\Users\Minh Tien Huynh\Desktop\MVC\MvcBookStore\obj\Debug\MvcBookStore.pdb
